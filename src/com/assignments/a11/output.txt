@@ -1,0 +1,10 @@
+Character: a, Count: 2
+Character: b, Count: 2
+Character: c, Count: 2
+Character: d, Count: 2
+Character: e, Count: 2
+Character: 
+, Count: 4
+Character: l, Count: 1
+Character: m, Count: 1
+Character: n, Count: 1
